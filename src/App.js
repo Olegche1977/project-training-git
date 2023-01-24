@@ -9,6 +9,9 @@ function App() {
     <div>
     Added change in first branch!
   </div>
+  <div>
+    Changes after alterations in master brange by mergin with emergency fix 
+  </div>
   </>
   );
 }
