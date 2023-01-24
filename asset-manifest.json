@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/project-training-git/static/css/main.073c9b0a.css",
+    "main.js": "/project-training-git/static/js/main.d25a57e2.js",
+    "static/js/787.70e5861c.chunk.js": "/project-training-git/static/js/787.70e5861c.chunk.js",
+    "static/media/logo.svg": "/project-training-git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/project-training-git/index.html",
+    "main.073c9b0a.css.map": "/project-training-git/static/css/main.073c9b0a.css.map",
+    "main.d25a57e2.js.map": "/project-training-git/static/js/main.d25a57e2.js.map",
+    "787.70e5861c.chunk.js.map": "/project-training-git/static/js/787.70e5861c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d25a57e2.js"
+  ]
+}
