@@ -9,6 +9,9 @@ function App() {
     <div>
     Added change in first branch!
   </div>
+  <div>
+    This is a third branch emergency-fix!
+  </div>
   </>
   );
 }
