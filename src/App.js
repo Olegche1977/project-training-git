@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      My changes in GitHub
+      My New CHANGES  (nomber 2) in GitHub
     </div>
   );
 }
