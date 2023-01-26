@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      My Very New CHANGES  (nomber 3!) in GitHub
+      My Changes in my local depo to push into GitHub
     </div>
   );
 }
