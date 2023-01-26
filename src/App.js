@@ -2,21 +2,10 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  return (<>
+  return (
     <div className="App">
-      First change!
+      My changes in GitHub
     </div>
-    <div>
-    Added change in first branch!
-  </div>
-  <div>
-
-    This is a third branch
-
-    Changes after  
-
-  </div>
-  </>
   );
 }
 
